@@ -4,6 +4,7 @@
 - 🦾 I’m looking to collaborate on metabolic modeling tools
 - 📫 How to reach me ae.tafur@hotmail.com
 
+Visit https://ae-tafur.github.io to know more about me
 <!---
 ae-tafur/ae-tafur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
