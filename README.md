@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ae-tafur
 - 👀 I’m interested in computational biology approaches for metabolic modeling
 - 🧑🏻‍💻 I’m currently learning machine learning 
-- 🦾 I’m looking to collaborate on metabolic modeling tools
+- 🦾 I’m looking to collaborate on metabolic modeling tools, software development for systems biology, and data visualisation
 - 📫 How to reach me ae.tafur@hotmail.com
 
 Visit https://ae-tafur.github.io to know more about me
